@@ -1,4 +1,6 @@
 # Theme Perso
+## Official repo
+https://github.com/behrouze/obsidian-theme
 ## Motivations
 Ce thème a été créé pour mon usage perso, ie :
 - un thème light
@@ -6,7 +8,9 @@ Ce thème a été créé pour mon usage perso, ie :
 - des extraits de code qui se détachent bien du texte autour
 
 ## Screenshots
-<img src="https://github.com/behrouze/obsidian-theme/screenshots/01.png" alt="Capture d'&eacute;cran" />
+<img src="screenshots/theme-perso-obsidian.png" alt="main screenshot for community theme store" />
+<img src="screenshots/headings.png" alt="headings" />
+<img src="screenshots/code.png" alt="code blocks" />
 
 ## Contributions
 Si vous constatez des problèmes ou si vous souhaitez contribuer à ce thème, veuillez soumettre une PR.

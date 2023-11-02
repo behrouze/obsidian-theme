@@ -3,10 +3,10 @@
 https://github.com/behrouze/obsidian-theme
 
 ## Motivations
-This theme was created for my personal use, i.e. :
-- a light theme
-- a clear separation of headings: distinct size, spacing and colors
-- code snippets that stand out from the surrounding text
+Ce thème a été créé pour mon usage perso, ie :
+- un thème light
+- une nette séparation des headings: taille, espacement et couleurs distincts
+- des extraits de code qui se détachent bien du texte autour
 
 ## Screenshots
 <img src="screenshots/theme-perso-obsidian.png" alt="main screenshot for community theme store" />
@@ -14,4 +14,4 @@ This theme was created for my personal use, i.e. :
 <img src="screenshots/code.png" alt="code blocks" />
 
 ## Contributions
-If you see any problems or would like to contribute to this topic, please submit a PR.
+Si vous constatez des problèmes ou si vous souhaitez contribuer à ce thème, veuillez soumettre une PR.
